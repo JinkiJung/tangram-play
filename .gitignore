@@ -1,4 +1,6 @@
 .DS_Store
+.idea/
+tangram-play.iml
 
 # Compiled files
 public/scripts/
